@@ -9,6 +9,6 @@ class HelloController extends Controller
     //
     public function index()
     {
-        return "this is my first program";
+        return "this is my first distributed program";
     }
 }
